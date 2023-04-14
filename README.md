@@ -1,4 +1,4 @@
-<div style="display: flex; width: 100%; justify-items: center;">
+<div style="display: flex; width: 100%; justify-items: center; flex-wrap: no-wrap;">
   <img src="https://imgs.search.brave.com/CbKrv8h6N0MyGPW0YXeMn7rzBDFbEdBJHX2C1oWzZvs/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/eFFadTd4RWtLVjEw/SENaeG1BdWVRSGFF/NyZwaWQ9QXBp" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
   <img src="https://imgs.search.brave.com/UIEp_lfQMY-bVLzjygLdu875AaOLhmOBf63vjr9My78/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/SndNSHN1Vmd1RGRy/NDZ2ZDJBMjR3SGFG/aiZwaWQ9QXBp" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
   <img src="https://imgs.search.brave.com/tnCHY8oQB1-JZjTjE_g9dId0B95f-ClqGvOdiacLgmE/rs:fit:538:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5T/c3VyOFZHR3JCY0E5/a0x2SGpmeUV3SGFH/aCZwaWQ9QXBp" alt="Image 3" style="width: auto; height: auto; object-fit: cover;">
