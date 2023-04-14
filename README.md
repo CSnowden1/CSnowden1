@@ -9,7 +9,7 @@
 <h2> Front-end Developer | Philadelphia Sports Fan | Anime Enthusiast | Outdoor Adventurer  </h2>
 
 
-<h3>Hey there! My name is Christopher Snowden 👋<h3> 
+<h2>Hey there! My name is Christopher Snowden 👋<h2> 
   
 <h3> I'm a front-end developer with a passion for coding &#x1F4BB;, sports &#x1F3C0;, anime &#x1F97D;, and the great outdoors &#x1F30D; </h3>
 
