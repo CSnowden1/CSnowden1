@@ -4,7 +4,7 @@
   <img src="https://imgs.search.brave.com/tnCHY8oQB1-JZjTjE_g9dId0B95f-ClqGvOdiacLgmE/rs:fit:538:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5T/c3VyOFZHR3JCY0E5/a0x2SGpmeUV3SGFH/aCZwaWQ9QXBp" alt="Image 3" style="width: 33%; height: auto; object-fit: cover;">
 </div>
 
-<h1 style="text-align: center;>"I left in love, in laughter, and in truth, and wherever truth, love and laughter abide, I am there in spirit." - Bill Hicks</h1>
+<h1 style="text-align: center">I left in love, in laughter, and in truth, and wherever truth, love and laughter abide, I am there in spirit." - Bill Hicks</h1>
 
 <h2> Front-end Developer | Philadelphia Sports Fan | Anime Enthusiast | Outdoor Adventurer  </h2>
 
