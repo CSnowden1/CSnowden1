@@ -1,26 +1,18 @@
-<div style="display: flex; width: 100%; justify-items: center; flex-wrap: no-wrap;">
-  <img src="https://imgs.search.brave.com/CbKrv8h6N0MyGPW0YXeMn7rzBDFbEdBJHX2C1oWzZvs/rs:fit:713:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/eFFadTd4RWtLVjEw/SENaeG1BdWVRSGFF/NyZwaWQ9QXBp" alt="Image 1" style="width: 33%; height: auto; object-fit: cover;">
-  <img src="https://imgs.search.brave.com/UIEp_lfQMY-bVLzjygLdu875AaOLhmOBf63vjr9My78/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5l/SndNSHN1Vmd1RGRy/NDZ2ZDJBMjR3SGFG/aiZwaWQ9QXBp" alt="Image 2" style="width: 33%; height: auto; object-fit: cover;">
-  <img src="https://imgs.search.brave.com/tnCHY8oQB1-JZjTjE_g9dId0B95f-ClqGvOdiacLgmE/rs:fit:538:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5T/c3VyOFZHR3JCY0E5/a0x2SGpmeUV3SGFH/aCZwaWQ9QXBp" alt="Image 3" style="width: 33%; height: auto; object-fit: cover;">
-</div>
-
-<h1 style="text-align: center">I left in love, in laughter, and in truth, and wherever truth, love and laughter abide, I am there in spirit." - Bill Hicks</h1>
-
-<h2> Front-end Developer | Philadelphia Sports Fan | Anime Enthusiast | Outdoor Adventurer  </h2>
 
 
-<h2>Hey there! My name is Christopher Snowden 👋<h2> 
+<h2> Full-Stack Developer | Philadelphia Sports Fan | Anime Enthusiast | Outdoor Adventurer </h2>
+
+
+<h2>Hey, my name is Christopher Snowden 👋<h2> 
   
-<h3> I'm a front-end developer with a passion for coding &#x1F4BB;, sports &#x1F3C0;, anime &#x1F97D;, and the great outdoors &#x1F30D; </h3>
+<h3> I'm a full-stack developer. I enjoy &#x1F4BB;, sports &#x1F3C0;, anime &#x1F97D;, and  boarding &#x1F30D; </h3>
 
   
 <p style="font-family: 'Comic Sans MS', cursive; font-size: 18px;">
   <span style="color: #e91e63;">I'm a huge fan of Philadelphia teams</span>,
   including the <span style="text-decoration: underline; font-weight: bold; color: #212121;">Eagles</span> &#x1F3C6;
   and <span style="text-decoration: underline; font-weight: bold; color: #ff5722;">76ers</span> &#x1F3C0;.
-  I'm also an avid anime watcher &#x1F409;, and Sunday mornings are usually reserved for binge-watching my favorite shows,
-  with <span style="text-decoration: underline; font-weight: bold; color: #8bc34a;">Vinland Saga</span> &#x1F40D;
-  currently at the top of my list.
+  I'm also an avid anime watcher &#x1F409;, and Sunday mornings are usually reserved for binge-watching my favorite show.
 </p>
 
 <div style="background-color: #f8bbd0; padding: 20px; border-radius: 10px;">
@@ -34,10 +26,8 @@
   <h3 style="color: #ab47bc;">Frontend Development & Ecommerce</h3>
   <p style="font-size: 18px;">
     I've been in frontend development for just over two years now, and I've learned a lot from resources like
-    FreeCodeCamp and freelance projects on platforms like Fiverr and Upwork. One of my favorite things to do is build
-    ecommerce stores &#x1F4B3;, from designing the user interface to running ads and hiring people for branding. It can
-    be a bit expensive, but once everything is up and running, it's a great way to make some side money. Currently,
-    I'm working on building an online mall of dropshipping stores, and it's been a really fun experience so far.
+    FreeCodeCamp and working on freelance projects on platforms like Fiverr and Upwork. One of my favorite things to do is build
+    ecommerce stores &#x1F4B3;, from designing the user interface to coding the backend. 
   </p>
   
   <h3 style="color: #7cb342;">Micro SaaS & Continuous Improvement</h3>
@@ -52,11 +42,7 @@
   <p style="font-size: 18px;">
     One thing that often gets overlooked about frontend development is the amount of research and documentation reading
     that goes into it. It's a big part of the job, and I enjoy staying up-to-date with the latest technologies,
-    frameworks, and best practices to continuously improve my skills. Currently, I would describe myself as a junior
-    developer with less than five years of experience. I recently joined Bloom Tech's Full Stack Bootcamp in Frederick,
-    MD to further hone my skills and land a job in the industry. The bootcamp has not only filled in some gaps in my
-    knowledge but has also taught me the importance of teamwork and asking for help, which has made me a more
-    collaborative and team-oriented developer &#x1F64C;.
+    frameworks, and best practices to continuously improve my skills. r &#x1F64C;.
   </p>
 </div>
   
