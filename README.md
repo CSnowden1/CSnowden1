@@ -5,6 +5,12 @@
 </div>
 
 <h2>Hey, my name is Christopher Snowden 👋<h2> 
+
+
+- [LinkedIn](https://www.linkedin.com/in/christopher-snowden-302939268/)
+- [Behance](https://www.behance.net/chrissnowden3)
+- [Instagram](https://www.instagram.com/praisehankhill/)
+- [Twitter](https://twitter.com/PraiseHankHill)
   
 <h3> I'm a full-stack developer. I enjoy &#x1F4BB;, sports &#x1F3C0;, anime &#x1F97D;, and  boarding &#x1F30D; </h3>
 
