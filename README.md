@@ -1,7 +1,8 @@
 
 
-<h2> Full-Stack Developer | Philadelphia Sports Fan | Anime Enthusiast | Outdoor Adventurer </h2>
-
+<div style="text-align: center;">
+  <h2>Full-Stack Developer | Philadelphia Sports Fan | Anime Enthusiast | Outdoor Adventurer</h2>
+</div>
 
 <h2>Hey, my name is Christopher Snowden 👋<h2> 
   
