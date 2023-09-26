@@ -6,9 +6,20 @@
 
 <h2>Hey, my name is Christopher Snowden 👋<h2> 
 
-[LinkedIn](https://www.linkedin.com/in/christopher-snowden-302939268/) | [Behance](https://www.behance.net/chrissnowden3) | [Instagram](https://www.instagram.com/praisehankhill/) | [Twitter](https://twitter.com/PraiseHankHill)
+
+### Check Out My Work: <a href="https://www.linkedin.com/in/christopher-snowden-302939268/" style="color: #333;">LinkedIn</a> | <a href="https://www.behance.net/chrissnowden3" style="color: #333;">Behance</a> | <a href="https://www.instagram.com/praisehankhill/" style="color: #333;">Instagram</a> | <a href="https://twitter.com/PraiseHankHill" style="color: #333;">Twitter</a>
+
+Here are a few of my GitHub repositories that you might find interesting:
+
+- [JavaScript Habit Tracker](https://github.com/CSnowden1/JavaScript-Habit-Tracker)
+- [Bookmark App Directory App](https://github.com/CSnowden1/Boomark-App-Directory-App)
+- [Furniture Store](https://github.com/CSnowden1/Furniture-Store)
+- [GetRightClothing](https://github.com/CSnowden1/GetRightClothing)
+
   
 <h3> I'm a full-stack developer. I enjoy &#x1F4BB;, sports &#x1F3C0;, anime &#x1F97D;, and  boarding &#x1F30D; </h3>
+
+
 
   
 <p style="font-family: 'Comic Sans MS', cursive; font-size: 18px;">
