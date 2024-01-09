@@ -7,7 +7,7 @@
 <h2>Hey, my name is Christopher Snowden 👋<h2> 
 
 
-### Check Out My Work: <a href="https://www.linkedin.com/in/christopher-snowden-302939268/" style="color: #333;">LinkedIn</a> | <a href="https://www.behance.net/chrissnowden3" style="color: #333;">Behance</a> | <a href="https://www.instagram.com/praisehankhill/" style="color: #333;">Instagram</a> | <a href="https://twitter.com/PraiseHankHill" style="color: #333;">Twitter</a>
+### Check Out My Work: <a href="https://www.linkedin.com/in/christopher-snowden-302939268/" style="color: #333;">LinkedIn</a> | <a href="https://www.upwork.com/freelancers/chrissnowden" style="color: #333;">Upwork</a>
 
 Here are a few of my GitHub repositories that you might find interesting:
 
