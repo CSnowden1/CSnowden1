@@ -1,3 +1,3 @@
 # Chris Snowden
 
-**Shopify Expert (Developer/Store Manager/Consultant)**
+**`Shopify Expert (Developer/Store Manager/Consultant)`**
