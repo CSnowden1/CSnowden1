@@ -13,6 +13,11 @@ If you need help with anything related to Shopify, reach out so we can start a p
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a style="margin-left:10px" href="https://chrissnowden.com/" target="_blank">
  <img width="250px" src="https://cdn.shopify.com/s/files/1/0716/3605/8351/files/Group_190.png?v=1725047289"/> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a style="margin-left:10px" href="https://calendly.com/snowden-chris/30min" target="_blank">
+ <img width="150px" src="https://cdn.brandfetch.io/idbJpTKFPT/theme/dark/logo.svg?k=id64Mup7ac&t=1667628252411?t=1667628252411"/> 
 </a>
+
+
 
 ---
