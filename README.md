@@ -1,4 +1,4 @@
-# Chris Snowden
+<img src="https://cdn.worldvectorlogo.com/logos/shopify.svg"/> # Chris Snowden
 
 **`Shopify Expert (Developer/Store Manager/Consultant)`**
 
