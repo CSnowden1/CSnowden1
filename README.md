@@ -1,4 +1,4 @@
-<img width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg"/> # Chris Snowden
+<img width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg"/> <h1> Chris Snowden </h1>
 
 **`Shopify Expert (Developer/Store Manager/Consultant)`**
 
