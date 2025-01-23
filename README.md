@@ -2,10 +2,11 @@
 
 **`Shopify Expert (Developer/Store Manager/Consultant)`**
 
-I'm a **Shopify Developer** and **Store Manager** building my eCommerce empire one step at a time. I partner with store owners and agencies to develop and manage high-performing Shopify stores. My goal is to deliver measurable results quickly and efficiently.
+What's up?
+My name is Chris, and I am a freelance Shopify developer. I work with brands and agencies, helping them build and modify their Shopify storefronts. I also post educational videos on YouTube, where I teach people how to build and modify their Shopify stores.
 
-All projects here can easily be added to your store to improve customer engagement. I focus on building efficient, scalable solutions that can be seamlessly integrated into your store, eliminating the need for costly apps.
+Inside this GitHub account, I have custom modifications and updates you can add to your Shopify for free.
 
-If you need help with anything related to Shopify, reach out so we can start a project.
+If you need help with your Shopify store, click the link below to contact me directly or via Upwork.
 
 ---
