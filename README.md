@@ -22,10 +22,7 @@
     <strong>Purchase Services Directly:</strong>
     <p>Get access to my services directly, including consultations and custom Shopify work. Check out my offerings on <a href="https://stan.store/ChrisSnowden" target="_blank">Stan</a>.</p>
   </li>
-  <li>
-    <strong>Shop Custom Themes:</strong>
-    <p>Browse professionally designed Shopify themes tailored for your business. Available on <a href="https://www.etsy.com/shop/ShopifyThemeBoutique?ref=dashboard-header" target="_blank">Etsy</a>.</p>
-  </li>
+
 </ul>
 
 <hr />
