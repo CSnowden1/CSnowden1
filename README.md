@@ -1,48 +1,6 @@
-  # <img width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg"/> Freelance Shopify Developer
-
-**`Shopify Expert (Developer/Store Manager/Consultant)`**
-
-<h1>What's Up? 👋</h1>
-<p>My name is <strong>Chris</strong>, and I am a freelance Shopify developer. I help brands and agencies build and modify their Shopify storefronts. I also post educational videos on <a href="https://www.youtube.com/@ShopifyChris" target="_blank">YouTube</a>, teaching people how to build and customize their Shopify stores.</p>
-
-<hr />
-
-<h2>🚀 Free Shopify Resources</h2>
-<p>Browse my GitHub for <strong>custom modifications and updates</strong> you can add to your Shopify store for free. These resources are designed to help you elevate your store’s performance and user experience.</p>
-
-<hr />
-
-<h2>💼 Work With Me</h2>
-<ul>
-  <li>
-    <strong>Hire Me on Upwork:</strong> 
-    <p>Looking for a Shopify expert? Hire me for custom development, theme modifications, and more on <a href="https://www.upwork.com/freelancers/~014fa307150d741118" target="_blank">Upwork</a>.</p>
-  </li>
-  <li>
-    <strong>Purchase Services Directly:</strong>
-    <p>Get access to my services directly, including consultations and custom Shopify work. Check out my offerings on <a href="https://stan.store/ChrisSnowden" target="_blank">Stan</a>.</p>
-  </li>
-
-</ul>
-
-<hr />
-
-<h2>🎥 Check Out My YouTube Channel</h2>
-<p>Subscribe to <a href="https://www.youtube.com/@ShopifyChris" target="_blank">Shopify Chris</a> for tutorials, tips, and tricks to grow and optimize your Shopify store.</p>
-
-<hr />
-
-<h2>🔗 Connect With Me</h2>
-<p>Follow me on social media for updates, tips, and inspiration:</p>
-<a href="https://x.com/ShopifyDevChris" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X (Twitter)" width="40" style="margin-right: 10px;" />
-</a>
-<a href="https://www.linkedin.com/in/chris-s-302939268/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="40" style="margin-right: 10px;" />
-</a>
-<a href="https://www.youtube.com/@ShopifyChris" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40" style="margin-right: 10px;" />
-</a>
-
-
----
+<img width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify Logo" /> **Shopify Expert: Developer • Consultant • Store Manager**
+<h1>About Me</h1> <p>My name is <strong>Chris Snowden</strong>. I am a freelance Shopify developer with experience supporting agencies and e-commerce businesses. I specialize in custom theme development, store setup, and ongoing optimization for Shopify storefronts.</p>
+<h2>Free Shopify Resources</h2> <p>Visit my <a href="https://github.com/" target="_blank">GitHub</a> to explore free tools and modifications you can implement on your Shopify store. These include custom code snippets, performance enhancements, and user experience improvements.</p>
+<h2>Work With Me</h2> <ul> <li> <strong>Upwork:</strong> <p>View my profile and hire me for Shopify development projects via <a href="https://www.upwork.com/freelancers/~014fa307150d741118" target="_blank">Upwork</a>.</p> </li> <li> <strong>Direct Services:</strong> <p>Book consultations and custom Shopify services directly through my <a href="https://stan.store/ChrisSnowden" target="_blank">Stan Store</a>.</p> </li> </ul>
+<h2>YouTube Channel</h2> <p>Subscribe to <a href="https://www.youtube.com/@ShopifyChris" target="_blank">Shopify Chris</a> on YouTube for tutorials and guidance on building and improving Shopify stores.</p>
+<h2>Connect With Me</h2> <p>Follow me for professional updates and e-commerce content:</p> <a href="https://x.com/ShopifyDevChris" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X (Twitter)" width="30" style="margin-right: 10px;" /> </a> <a href="https://www.linkedin.com/in/chris-s-302939268/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="30" style="margin-right: 10px;" /> </a> <a href="https://www.youtube.com/@ShopifyChris" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="30" style="margin-right: 10px;" /> </a>
