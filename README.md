@@ -1,4 +1,1 @@
-<img width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify Logo" /> **Shopify Expert: Developer • Consultant • Store Manager**
-<h1>About Me</h1> <p>My name is <strong>Chris Snowden</strong>. I am a freelance Shopify developer with experience supporting agencies and e-commerce businesses. I specialize in custom theme development, Storefront API, and store management. I help brands launch, grow, and optimize their online stores.</p>
-<h2>Free Shopify Resources</h2> <p>Visit my <a href="https://github.com/" target="_blank">GitHub</a> to explore free tools and modifications you can implement on your Shopify store. These include custom scripts, theme snippets, and workflow automations.</p>
-<h2>Work With Me</h2> <ul> <li> <strong>Upwork:</strong> <p>View my profile and hire me for Shopify development projects via <a href="https://www.upwork.com/freelancers/~014fa307150d741118" target="_blank">Upwork</a>.</p> </li> <li> <strong>Email:</strong> <p>Contact me directly at <a href="mailto:contact@chrissnowden.dev">contact@chrissnowden.dev</a> for inquiries or collaboration opportunities.</p> </li> </ul>
+
